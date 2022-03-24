@@ -1,5 +1,17 @@
-from tkinter import Tk, HIDDEN, NORMAL, Canvas
+*********************************************************************
+#You can use source codes as you want
+#But You have to give our profile link in your code as comment
+#Copy Below Codes and Paste in your codes Comment Section
+*********************************************************************
+#Github: https://github.com/vipinjangra
+#Youtube: https://www.youtube.com/c/vipincoding/
+#Blog: http://vipincoding.wordpress.com/
+#Website: http://vipincoding.blogspot.com
+#Facebook: https://www.facebook.com/vipincoding
+#Instagram: https://www.instagram.com/vipincoding/
+*********************************************************************
 
+from tkinter import Tk, HIDDEN, NORMAL, Canvas
 
 def toggle_eyes():
     current_color = c.itemcget(eye_left, 'fill')
